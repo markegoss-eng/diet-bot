@@ -1,7 +1,0 @@
-name = "diet-bot"
-main = "bot.py"
-compatibility_date = "2025-01-01"
-compatibility_flags = ["python_workers"]
-
-[build]
-command = "pip install -r requirements.txt -t ."
